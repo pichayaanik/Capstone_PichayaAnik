@@ -1,7 +1,7 @@
 # Leveraging Topic Modeling to Extract News Articles for Analysis on Thailand's Digital Competitiveness Ranking
 ---
 #### Pichaya (Anik) Charoonpongsakdi
-Data Science Immersive - Capstone Project
+Data Science Immersive - Capstone Project<br>
 Link to the presentation [>>Click here<<](https://docs.google.com/presentation/d/1TooN8ycOvl-FB0gWikqjoO2LvPg2Vlh-09dW1wUhXB8/edit?usp=sharing)
 
 ### Summary
